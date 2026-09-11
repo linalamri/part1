@@ -1,0 +1,7 @@
+span_amount=0
+print(span_amount)
+span_amount=span_amount+4
+if span_amount>0:
+    print("but i dont want any spam!")
+viking_song="spam"*span_amount
+print(viking_song)
